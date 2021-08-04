@@ -13,5 +13,5 @@
 Flow中国社区为了帮助大家国内的开发者更好的学习，会按照课程学习顺序在Github上进行汉化，以及配套的教学视频上传至Flow的B站！
 
 **如何为 **CryptoDappy** 贡献并提供中文资源？**
-1. fork “docs-flow” Github 仓库：
+
 
